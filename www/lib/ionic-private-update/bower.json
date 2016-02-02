@@ -1,0 +1,8 @@
+{
+    "name": "ionic-private-update",
+    "version": "0.0.1",
+    "authors": [
+        "Cr. <631807682qq.com>"
+    ],
+    "description": "二进制版本兼容/非兼容更新"
+}
